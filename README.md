@@ -22,7 +22,7 @@
 - [kokeiro001 4人規模で同人ゲームを制作するに当たって使用したツールやサービスの紹介](http://qiita.com/kokeiro001/items/8e3a559a39d00d7e65fd?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=d07ee5ba34-Qiita_newsletter_247_14_2_2017&utm_medium=email&utm_term=0_e44feaa081-d07ee5ba34-32975205)
 
 # 春休みプロジェクト
-- https://github.com/khtaaa/batle-simulation
+- https://github.com/khtaaa/battle-simulation
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
