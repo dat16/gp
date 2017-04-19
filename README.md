@@ -26,3 +26,11 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 2回目
+- CIkimono, CHito, CTori, CSakanaクラスをUnityで動かす
+- Unity AI
+
+# 1回目
+- オブジェクト指向プログラミングまとめ
+- 春休み作品の確認
+
