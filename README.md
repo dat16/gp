@@ -31,6 +31,10 @@
 - https://github.com/furukawasyunngo/MatoateGame
 
 # 2回目
+## 話題
+- [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
+
+## 予定
 - CIkimono, CHito, CTori, CSakanaクラスをUnityで動かす
 - Unity AI
 - 光り物
