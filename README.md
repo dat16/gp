@@ -30,18 +30,28 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 3回目
+## 話題
+- [paiza開発日誌 【採用担当者に聞いてみた】うちに来てほしいのはこんな人！　合否を決めるポイントとは？](http://paiza.hatenablog.com/entry/2017/05/10/%E3%80%90%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F%E3%80%91%E3%81%86%E3%81%A1%E3%81%AB%E6%9D%A5%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E3%81%AE)
+
+## 予定
+- Viveの調査
+- 1週間ゲームジャムについて
+- ゲームの企画について
+- CIkimono, CHito, CTori, CSakanaクラスをUnityで動かす
+- Unity AI
+- シーンを切り替えたときに暗くなる症状の解消(3Daction)
+- 壁に衝突したときに、プレイヤーの方向を入れ替える(90度は動いた。向いている方向を残せないか検討)
+
 # 2回目
 ## 話題
 - [テラシュールブログ Unity2017](http://tsubakit1.hateblo.jp/entry/2017/05/08/224037)
 - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
 - [東京インディーフェス2017](http://www.tokyosandbox.com/tokyo-indie-fest/)
 
-## 予定
-- CIkimono, CHito, CTori, CSakanaクラスをUnityで動かす
-- Unity AI
-- 光り物
-- シーンを切り替えたときに暗くなる症状の解消(3Daction)
-- 壁に衝突したときに、プレイヤーの方向を入れ替える(90度は動いた。向いている方向を残せないか検討)
+## やったこと
+- HTC Viveの調査
+- Unityの光り物について
 
 # 1回目
 - オブジェクト指向プログラミングまとめ
