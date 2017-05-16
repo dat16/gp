@@ -33,6 +33,9 @@
 # 3回目
 ## 話題
 - [paiza開発日誌 【採用担当者に聞いてみた】うちに来てほしいのはこんな人！　合否を決めるポイントとは？](http://paiza.hatenablog.com/entry/2017/05/10/%E3%80%90%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F%E3%80%91%E3%81%86%E3%81%A1%E3%81%AB%E6%9D%A5%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E3%81%AE)
+  - その他、paizaでさまざまなキャンペーンが
+    - https://paiza.jp/logic_summoner
+    - https://paiza.jp/poh/hundred_thousand
 
 ## 予定
 - Viveの調査
