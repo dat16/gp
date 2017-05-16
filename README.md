@@ -40,6 +40,9 @@
 ## 予定
 - Viveの調査
 - 1週間ゲームジャムについて
+  - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
+
+## 以下、時間があれば
 - ゲームの企画について
 - CIkimono, CHito, CTori, CSakanaクラスをUnityで動かす
 - Unity AI
