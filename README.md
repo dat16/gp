@@ -31,14 +31,17 @@
 - https://github.com/furukawasyunngo/MatoateGame
 
 # 4回目
+## 話題
+- [テラシュールブログ 【Unity】1週間ゲームジャムに参加しました。メイキング・オブ・超速ブロック崩し（仮）](http://tsubakit1.hateblo.jp/entry/2017/05/01/230531)
+
 ## 予定
 - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
 ## 繰越
 - CIkimono, CHito, CTori, CSakanaクラスをUnityで動かす
 - Unity AI
+- UNetによる通信
 - シーンを切り替えたときに暗くなる症状の解消(3Daction)
-- 壁に衝突したときに、プレイヤーの方向を入れ替える(90度は動いた。向いている方向を残せないか検討)
 
 # 3回目
 ## 話題
