@@ -38,6 +38,7 @@
     - https://paiza.jp/poh/hundred_thousand
 
 ## 予定
+- [フリーライティング](https://docs.google.com/spreadsheets/d/1mflzA4vkeBeNL32QfmsnJwDIuaAhJwTEL7ho_BF_Jqc/edit?usp=sharing)
 - Viveの調査
 - 1週間ゲームジャムについて
   - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
