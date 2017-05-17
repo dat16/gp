@@ -37,20 +37,19 @@
     - https://paiza.jp/logic_summoner
     - https://paiza.jp/poh/hundred_thousand
 
-## 予定
-- 作成した企画概要書は以下に提出
-  - \\LANDISK-A601\disk\2017年\学生用フォルダー\GP_2 に保存する
-  - ファイル名を出席番号と苗字のカタカナにしておく。例 13_タナカ.pptx
-- Viveの調査
-- 1週間ゲームジャムについて
-  - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
-
 ## 以下、時間があれば
-- ゲームの企画について
 - CIkimono, CHito, CTori, CSakanaクラスをUnityで動かす
 - Unity AI
 - シーンを切り替えたときに暗くなる症状の解消(3Daction)
 - 壁に衝突したときに、プレイヤーの方向を入れ替える(90度は動いた。向いている方向を残せないか検討)
+
+## 完了
+- 作成した企画概要書は以下に提出
+  - \\LANDISK-A601\disk\2017年\学生用フォルダー\GP_2 に保存する
+  - ファイル名を出席番号と苗字のカタカナにしておく。例 13_タナカ.pptx
+- 1週間ゲームジャムについて
+  - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
+- ゲームの企画について
 
 # 2回目
 ## 話題
