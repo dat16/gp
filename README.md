@@ -39,6 +39,9 @@
 
 ## 予定
 - [フリーライティング fix](https://docs.google.com/spreadsheets/d/1JFJ8nBVO2eXKLpj1bKYeavRsNibAVDNtxz8IOJzyGMc/edit?usp=sharing)
+- 作成した企画概要書は以下に提出
+  - \\LANDISK-A601\disk\2017年\学生用フォルダー\GP_2 に保存する
+  - ファイル名を出席番号と苗字のカタカナにしておく。例 13_タナカ.pptx
 - Viveの調査
 - 1週間ゲームジャムについて
   - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
