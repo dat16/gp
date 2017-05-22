@@ -33,6 +33,8 @@
 # 4回目
 ## 話題
 - [テラシュールブログ 【Unity】1週間ゲームジャムに参加しました。メイキング・オブ・超速ブロック崩し（仮）](http://tsubakit1.hateblo.jp/entry/2017/05/01/230531)
+- [ITmedia ソースコードまで酷似　「堀江貴文プロデュース」アイドルサイトに盗用多数　運営者が謝罪](http://www.itmedia.co.jp/news/articles/1705/22/news063.html)
+- [有賀正博 NAVERまとめのライターに無断転載の損害賠償を支払っていただいた件](https://www.photo-yatra.tokyo/blog/archives/12696)
 
 ## 予定
 - [技術用語の発音](http://webrocketsmagazine.com/entry/20111201/what-do-you-read-css-property.html)
