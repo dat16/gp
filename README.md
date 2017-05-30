@@ -50,7 +50,9 @@
 - 今回開発したものを整理して、次回に備える
 
 ## 予定
-- CIkimono, CHito, CTori, CSakanaクラスをUnityで動かす
+- [Unityのスクリーンキャプチャ](https://github.com/unity3d-jp/FrameCapturer)
+  - 速度が出るか試したい
+- Unityのゲームフレームワーク
 - Unity AI
 - UNetによる通信
 - シーンを切り替えたときに暗くなる症状の解消(3Daction)
