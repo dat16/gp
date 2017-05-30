@@ -34,6 +34,7 @@
 ## 話題
 - [Unity 一週間ゲームジャム](https://unityroom.com/unity1weeks/3)
   - [田中作品](https://unityroom.com/games/teacup-bwl)
+- [セガ技術ブログ編集部. GameJamで覚えるタスクボード(カンバン)](http://techblog.sega.jp/entry/2017/05/26/100000)
 
 ### 次回のゲームジャムに向けて
 - 素材を探すためのサイトを見つけておく
