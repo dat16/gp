@@ -53,6 +53,9 @@
 - [Unityのスクリーンキャプチャ](https://github.com/unity3d-jp/FrameCapturer)
   - 速度が出るか試したい
 - Unityのゲームフレームワーク
+- Unityからのツイートとランキング登録を試す。ついでにクラウドビルドも
+  - https://unityroom.com/unity1weeks のヘルプ＆サンプルにブログへのリンクがあるので確認
+- Unity でミニマップを実装
 - Unity AI
 - UNetによる通信
 - シーンを切り替えたときに暗くなる症状の解消(3Daction)
