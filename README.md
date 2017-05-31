@@ -50,13 +50,15 @@
 -　モデリングツール、Photoshop、マップエディターを最低限、押さえておく
 - 今回開発したものを整理して、次回に備える
 
-## 予定
+## 内容
 - [Unityのスクリーンキャプチャ](https://github.com/unity3d-jp/FrameCapturer)
   - 速度が出るか試したい > FrameCaptureはエラーが発生して失敗
   - Screenpressonのフレーム数が高くなったので、動画のフレームワークはPCの性能による
-- Unityのゲームフレームワーク
 - Unityからのツイートとランキング登録を試す。ついでにクラウドビルドも
   - https://unityroom.com/unity1weeks のヘルプ＆サンプルにブログへのリンクがあるので確認
+
+## 予定
+- Unityのゲームフレームワーク
 - Unity でミニマップを実装
 - Unity AI
 - UNetによる通信
