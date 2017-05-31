@@ -52,7 +52,8 @@
 
 ## 予定
 - [Unityのスクリーンキャプチャ](https://github.com/unity3d-jp/FrameCapturer)
-  - 速度が出るか試したい
+  - 速度が出るか試したい > FrameCaptureはエラーが発生して失敗
+  - Screenpressonのフレーム数が高くなったので、動画のフレームワークはPCの性能による
 - Unityのゲームフレームワーク
 - Unityからのツイートとランキング登録を試す。ついでにクラウドビルドも
   - https://unityroom.com/unity1weeks のヘルプ＆サンプルにブログへのリンクがあるので確認
