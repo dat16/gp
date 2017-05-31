@@ -30,6 +30,14 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 6回目
+## 予定
+- Unityのゲームフレームワーク
+- Unity でミニマップを実装
+- Unity AI
+- UNetによる通信
+- シーンを切り替えたときに暗くなる症状の解消(3Daction)
+
 # 5回目
 ## 話題
 - [Unity 一週間ゲームジャム](https://unityroom.com/unity1weeks/3)
@@ -57,12 +65,6 @@
 - Unityからのツイートとランキング登録を試す。ついでにクラウドビルドも
   - https://unityroom.com/unity1weeks のヘルプ＆サンプルにブログへのリンクがあるので確認
 
-## 予定
-- Unityのゲームフレームワーク
-- Unity でミニマップを実装
-- Unity AI
-- UNetによる通信
-- シーンを切り替えたときに暗くなる症状の解消(3Daction)
 
 # 4回目
 ## 話題
