@@ -32,6 +32,7 @@
 
 # 6回目
 ## 予定
+- [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
 - Unityのゲームフレームワーク
 - Unity でミニマップを実装
 - Unity AI
