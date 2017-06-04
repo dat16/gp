@@ -33,9 +33,19 @@
 # 6回目
 ## 話題
 - [安原祐二 クォータニオン完全マスター](https://www.dropbox.com/s/em7iqkax0771qb0/Unity%E9%81%93%E5%A0%B4%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E5%8D%9A%E5%A4%9A-yasuhara.pdf?dl=0)
+- [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
 
 ## 予定
-- [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
+- 6/18から1週間ゲームジャム。最遅提出は先の日曜。次回は遅れてもかまわないから提出を
+- プロジェクト作成
+- WebGLクラウドビルド、ランキングの組み込み
+  - https://unityroom.com/unity1weeks のヘルプ＆サンプルにブログへのリンクがあるので確認
+- GitHubにアップして動作確認
+- フォントの組み込み
+- サウンド探し
+- Tiledの読み込み
+
+## 時間があったら
 - Unityのゲームフレームワーク
 - Unity でミニマップを実装
 - Unity AI
