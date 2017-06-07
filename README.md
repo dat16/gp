@@ -34,6 +34,8 @@
 ## 話題
 - [CrossOver GameJam 04 Microsoft 品川オフィス 7/7 20:00～7/8 20:00](https://kenjin.unity3d.jp/events/show/530)
 - [学生チーム対抗ゲームジャム2017 武蔵境駅 7/8 11:00～7/9 17:00](https://kenjin.unity3d.jp/events/show/526)
+- [Unity Technologies Japan G.K. Unityインターハイ　ブログ](http://inter-high-blog.unity3d.jp/2017/06/05/blogopen/)
+  - 企画の出し方など
 
 ## 予定
 - 提出するプログラムについて
