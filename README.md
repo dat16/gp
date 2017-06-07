@@ -30,21 +30,37 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 7回目
+## 話題
+- [CrossOver GameJam 04 Microsoft 品川オフィス 7/7 20:00～7/8 20:00](https://kenjin.unity3d.jp/events/show/530)
+- [学生チーム対抗ゲームジャム2017 武蔵境駅 7/8 11:00～7/9 17:00](https://kenjin.unity3d.jp/events/show/526)
+
+## 予定
+- 提出するプログラムについて
+  - リーダブルコード
+  - GitHubなどで著名な開発者のコードを見る
+  - チェックポイント
+    - 変数や関数の命名規約
+    - コメントの書き方
+    - ヘッダーに書くこと(結構書いてない)
+- [Unityでプロジェクトを新規に作成した時にやっておくとよさそうなこと](06_make_unity_project.md)
+　　- プロジェクト作成
+　　- WebGLクラウドビルド、ランキングの組み込み
+  　　- https://unityroom.com/unity1weeks のヘルプ＆サンプルにブログへのリンクがあるので確認
+　　- GitHubにアップして動作確認
+　　- フォントの組み込み
+　　- サウンド探し
+  - ライトの設定
+
 # 6回目
 ## 話題
 - 6/18から1週間ゲームジャム。最遅提出は先の日曜。次回は遅れてもかまわないから提出を
 - [安原祐二 クォータニオン完全マスター](https://www.dropbox.com/s/em7iqkax0771qb0/Unity%E9%81%93%E5%A0%B4%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E5%8D%9A%E5%A4%9A-yasuhara.pdf?dl=0)
 - [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
 
-## 予定
-- [Unityでプロジェクトを新規に作成した時にやっておくとよさそうなこと](06_make_unity_project.md)
-- プロジェクト作成
-- WebGLクラウドビルド、ランキングの組み込み
-  - https://unityroom.com/unity1weeks のヘルプ＆サンプルにブログへのリンクがあるので確認
-- GitHubにアップして動作確認
-- フォントの組み込み
-- サウンド探し
-- Tiledの読み込み
+## 内容
+- マップの読み込み
+- 各自作業
 
 ## 時間があったら
 - Unityのゲームフレームワーク
