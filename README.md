@@ -24,6 +24,8 @@
 ## 参考URL
 - [Unity VR チュートリアル](https://unity3d.com/jp/learn/tutorials/topics/virtual-reality)
 - [Unity AI](https://www.youtube.com/playlist?list=PLX2vGYjWbI0ROSj_B0_eir_VkHrEkd4pi)
+- [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
+- [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 春休みプロジェクト
 - https://github.com/khtaaa/battle-simulation
