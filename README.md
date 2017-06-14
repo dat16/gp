@@ -32,6 +32,13 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 8回目
+## 話題
+- [バンダイナムコ VR ZONE SHINJUKU 7/14から](http://www.phileweb.com/news/d-av/201706/13/41416.html)
+
+## 予定
+- Unity1週間ゲームジャムの開発
+
 # 7回目
 ## 話題
 - [CrossOver GameJam 04 Microsoft 品川オフィス 7/7 20:00～7/8 20:00](https://kenjin.unity3d.jp/events/show/530)
