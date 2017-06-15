@@ -35,6 +35,7 @@
 # 8回目
 ## 話題
 - [バンダイナムコ VR ZONE SHINJUKU 7/14から](http://www.phileweb.com/news/d-av/201706/13/41416.html)
+- [gamesindustry 本格的モーションキャプチャスタジオやVR機器などを無償で提供，リクルートテクノロジーズがオープンイノベーションスペースを開設](http://jp.gamesindustry.biz/article/1706/17061501/)
 
 ## 予定
 - Unity1週間ゲームジャムの開発
