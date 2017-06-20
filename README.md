@@ -39,6 +39,7 @@
 
 ## 予定
 - Unity1週間ゲームジャムの開発
+- [主催者naichiさんのコメント](https://twitter.com/naichilab/status/877123242468581377)
 
 # 7回目
 ## 話題
