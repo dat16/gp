@@ -32,12 +32,28 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 9回目
+## 話題
+- [Unity1週間ゲームジャム 3回目](https://unityroom.com/unity1weeks/4)
+  - [田中の作品 Unite Star Dust!](https://unityroom.com/games/unite-star-dust)
+
+## 予定
+- Unity1週間ゲームジャムの振り返り
+- [カメラ制御アセット Cinemachine](https://www.assetstore.unity3d.com/jp/#!/content/79898)
+- [Physicsのデバッグ](http://am1tanaka.hatenablog.com/entry/2017/06/27/133759)
+- [ScriptableObjectについて](http://tsubakit1.hateblo.jp/entry/2014/07/24/030607)
+- [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
+- [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
+- Unity公式のチュートリアル
+  - AI
+  - 完成プロジェクト  
+
 # 8回目
 ## 話題
 - [バンダイナムコ VR ZONE SHINJUKU 7/14から](http://www.phileweb.com/news/d-av/201706/13/41416.html)
 - [gamesindustry 本格的モーションキャプチャスタジオやVR機器などを無償で提供，リクルートテクノロジーズがオープンイノベーションスペースを開設](http://jp.gamesindustry.biz/article/1706/17061501/)
 
-## 予定
+## 内容
 - Unity1週間ゲームジャムの開発
 - [主催者naichiさんのコメント](https://twitter.com/naichilab/status/877123242468581377)
 
@@ -51,8 +67,6 @@
 ## 内容
 - コルーチンの使い方
 - マルチシーンによるステージ管理
-
-## 予定
 - 提出するプログラムについて
   - リーダブルコード
   - GitHubなどで著名な開発者のコードを見る
