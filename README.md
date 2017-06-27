@@ -44,9 +44,8 @@
 - [ScriptableObjectについて](http://tsubakit1.hateblo.jp/entry/2014/07/24/030607)
 - [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
 - [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
-- Unity公式のチュートリアル
-  - AI
-  - 完成プロジェクト  
+- Unity公式のAIチュートリアル
+- [【Unity】アプリ内課金やAssetBundle、ランキングの例を含むサンプルゲーム、Endless Runner Sample Game](http://tsubakit1.hateblo.jp/entry/2017/06/20/234608)
 
 # 8回目
 ## 話題
