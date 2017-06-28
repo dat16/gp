@@ -33,20 +33,26 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 10回目
+## 話題
+
+## 予定
+- [カメラ制御アセット Cinemachine](https://www.assetstore.unity3d.com/jp/#!/content/79898)
+- [Physicsのデバッグ](http://am1tanaka.hatenablog.com/entry/2017/06/27/133759)
+- [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
+- [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
+
+- [ScriptableObjectについて](http://tsubakit1.hateblo.jp/entry/2014/07/24/030607)
+- Unity公式のAIチュートリアル
+- [【Unity】アプリ内課金やAssetBundle、ランキングの例を含むサンプルゲーム、Endless Runner Sample Game](http://tsubakit1.hateblo.jp/entry/2017/06/20/234608)
+
 # 9回目
 ## 話題
 - [Unity1週間ゲームジャム 3回目](https://unityroom.com/unity1weeks/4)
   - [田中の作品 Unite Star Dust!](https://unityroom.com/games/unite-star-dust)
 
-## 予定
+## 内容
 - Unity1週間ゲームジャムの振り返り
-- [カメラ制御アセット Cinemachine](https://www.assetstore.unity3d.com/jp/#!/content/79898)
-- [Physicsのデバッグ](http://am1tanaka.hatenablog.com/entry/2017/06/27/133759)
-- [ScriptableObjectについて](http://tsubakit1.hateblo.jp/entry/2014/07/24/030607)
-- [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
-- [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
-- Unity公式のAIチュートリアル
-- [【Unity】アプリ内課金やAssetBundle、ランキングの例を含むサンプルゲーム、Endless Runner Sample Game](http://tsubakit1.hateblo.jp/entry/2017/06/20/234608)
 - [今回のデスクトップライブ配信](https://www.youtube.com/embed/sJp2Qww6pBs)
   - UnityCollabの設定とCloudBuild
   - Unity1週間ゲームジャムへの投稿方法の概要
