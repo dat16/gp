@@ -53,7 +53,7 @@
 
 ## 内容
 - Unity1週間ゲームジャムの振り返り
-- [今回のデスクトップライブ配信](https://www.youtube.com/embed/sJp2Qww6pBs)
+- [デスクトップ動画のライブ配信](https://www.youtube.com/watch?v=sJp2Qww6pBs&t=41s)
   - UnityCollabの設定とCloudBuild
   - Unity1週間ゲームジャムへの投稿方法の概要
 
