@@ -46,6 +46,8 @@
 - [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
 - Unity公式のAIチュートリアル
 - [【Unity】アプリ内課金やAssetBundle、ランキングの例を含むサンプルゲーム、Endless Runner Sample Game](http://tsubakit1.hateblo.jp/entry/2017/06/20/234608)
+- [今回のデスクトップライブ配信](https://www.youtube.com/embed/VGQ56h38U7A)
+
 
 # 8回目
 ## 話題
