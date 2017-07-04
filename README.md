@@ -35,14 +35,16 @@
 
 # 10回目
 ## 話題
+- [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
 
 ## 予定
+- TextMesh Pro
+- Androidでの動作確認
+- [ScriptableObjectについて](http://tsubakit1.hateblo.jp/entry/2014/07/24/030607)
 - [カメラ制御アセット Cinemachine](https://www.assetstore.unity3d.com/jp/#!/content/79898)
 - [Physicsのデバッグ](http://am1tanaka.hatenablog.com/entry/2017/06/27/133759)
 - [おもちゃラボ 【Unityシェーダ】オブジェクトが重なった部分をくり抜く](http://nn-hokuson.hatenablog.com/entry/2017/06/01/220504)
 - [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
-
-- [ScriptableObjectについて](http://tsubakit1.hateblo.jp/entry/2014/07/24/030607)
 - Unity公式のAIチュートリアル
 - [【Unity】アプリ内課金やAssetBundle、ランキングの例を含むサンプルゲーム、Endless Runner Sample Game](http://tsubakit1.hateblo.jp/entry/2017/06/20/234608)
 
