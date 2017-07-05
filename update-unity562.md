@@ -3,8 +3,8 @@
 
 - VisualStudio2015のアンインストール(2017が入るので不要になるので)
 - AndroidStudioのインストールと初期設定
-- AndroidStudioのインストール(Androidを接続するのに必要)
 - USBドライバーのインストール(Androidを接続するのに必要)
+- 古いUnityのアンインストール
 - Unityのアップデートインストール(5.6.2か、出ていれば2017)
 - UnityとVisualStudioの起動確認
 
@@ -29,16 +29,52 @@
 - [Missing SDK]が表示されたら、[Cancel]をクリック
 - [You have chosen to ・・・]が表示されたら、[Do not re-run・・・」にチェックを入れて、[OK]をクリック
 
-引き続き、USBの読み込みなどを行う。
+引き続き、AndroidSDKのインストールを行う。
 
 - Window右下の[Configure]をクリックして、SDK Manager」を選択する
 - [Android SDK Location]欄の右の[Edit]をクリック
 - [Android SDK Location]が[C:\Android\android-sdk]になっていればよい。そのまま[Next]>[Next]と進めて、インストールを開始
   - インストールが完了するまで待つ
+- [Finish]ボタンが表示されたらクリック
 
+USB Driverをインストールする。
 
+- [SDK Tools]タブをクリック
+- [Google USB Driver]にチェックを入れて、[OK]をクリック
+- [Confirm Change]ウィンドウが表示されたら、[OK]をクリック
+- [License Agreement]が表示されるので、[Accept]にチェックして、[Next]をクリック
+- [Finish]ボタンが押せるようになったら押す
+
+以上で完了。Android Studioの右上の[x]をクリックして、閉じる。
+
+## UnityのAndroid設定を行う
+- Unityを起動
+- [Edit]>[Project Settings]>[Editor]を開く
+- [Inspector]ビューの[Device]が[None]になっていたら、[Any Android Device]に変更
+- [Edit]>[Preferences]を開く
+- [External Tools]タグを選択
+- 下の方のAndroidセッティングのSDKをBrowse選択して、 `C:\Android\android-sdk` 
+- JDKを選択して、 `C:\Program Files\Java\jdk1.8.0_131`
+- 閉じる
+
+## Unityのアンインストール
+インストール済みの古いUnityをアンインストールする。
 
 
 
 ## Unity最新版のインストール
+- https://unity3d.com/jp/get-unity/update を開く
+- 最新のインストーラーをクリック
+- ダウンロードが完了したら、開く
+- [Next]をクリック
+- License Agreementが表示されたら、[I accept the terms of the License Agreement]にチェックを入れて、[Next]をクリック
+- 64bitであるのを確認して、[Next]をクリック
+- 以下のものにチェック
+  - Unity 5.6.x
+  - Standard Assets
+  - Microsoft Visual Studio Community 2017
+  - Android Build Support
+  - WebGL Build Support
+- [Next]をクリック
+- 
 
