@@ -33,6 +33,18 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 11回目
+## 予定
+- Unity2017.1を確認
+- UnityEditorについて
+  - [公式マニュアル エディター拡張](https://docs.unity3d.com/jp/540/Manual/ExtendingTheEditor.html)
+  - [安藤圭吾 エディター拡張入門](https://anchan828.github.io/editor-manual/web/index.html)
+- シェーダー
+  - [おもちゃラボ シェーダーカテゴリ](http://nn-hokuson.hatenablog.com/archive/category/%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%80)
+  - [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
+
+---
+
 # 10回目
 ## 話題
 - [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
