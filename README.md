@@ -33,9 +33,8 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
-# 11回目
+# 12回目
 ## 予定
-- Unity2017.1を確認
 - UnityEditorについて
   - [公式マニュアル エディター拡張](https://docs.unity3d.com/jp/540/Manual/ExtendingTheEditor.html)
   - [安藤圭吾 エディター拡張入門](https://anchan828.github.io/editor-manual/web/index.html)
@@ -43,7 +42,22 @@
   - [おもちゃラボ シェーダーカテゴリ](http://nn-hokuson.hatenablog.com/archive/category/%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%80)
   - [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
 
+## 夏休み明けについて
+- この講義向けでなくても構わないので、開発した作品や、就職活動、インターンについて、何をしていたかをまとめてレポートを提出
+- インターンや就職活動の具体的な内容はなくてよい（守秘義務がある可能性があるため）
+- 内定の状況や、その時点でのインターン、面接の進み具合など
+
 ---
+
+# 11回目
+## 内容
+- Unity2017.1を確認
+- UnityEditorについて
+  - [公式マニュアル エディター拡張](https://docs.unity3d.com/jp/540/Manual/ExtendingTheEditor.html)
+  - [安藤圭吾 エディター拡張入門](https://anchan828.github.io/editor-manual/web/index.html)
+- シェーダー
+  - [おもちゃラボ シェーダーカテゴリ](http://nn-hokuson.hatenablog.com/archive/category/%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%80)
+  - [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
 
 # 10回目
 ## 話題
