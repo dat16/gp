@@ -44,6 +44,10 @@
 
 ## 話題
 - [Unity3D Japan 【Unite 2017 Tokyo】Unityで楽しむノンフォトリアルな絵づくり講座：トゥーンシェーダー・マニアクス](https://www.youtube.com/watch?v=6aNB9LhSx7g)
+- [【第13回】東ゲ部もくもく会](https://togebu.doorkeeper.jp/events/62478)
+  - 2017-07-16（日）10:30 - 18:00
+  - 1,000円 会場払い
+  - 申込締切 7月16日 17:00 
 
 
 ## 夏休み明けについて
