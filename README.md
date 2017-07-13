@@ -42,6 +42,10 @@
   - [おもちゃラボ シェーダーカテゴリ](http://nn-hokuson.hatenablog.com/archive/category/%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%80)
   - [ユニティちゃんトゥーンシェーダー2.0](http://unity-chan.com/download/releaseNote.php?id=UTS2_0)
 
+## 話題
+- [Unity3D Japan 【Unite 2017 Tokyo】Unityで楽しむノンフォトリアルな絵づくり講座：トゥーンシェーダー・マニアクス](https://www.youtube.com/watch?v=6aNB9LhSx7g)
+
+
 ## 夏休み明けについて
 - この講義向けでなくても構わないので、開発した作品や、就職活動、インターンについて、何をしていたかをまとめてレポートを提出
 - インターンや就職活動の具体的な内容はなくてよい（守秘義務がある可能性があるため）
