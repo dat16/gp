@@ -37,6 +37,7 @@
 ## 予定
 - [【Unite 2017 Tokyo】スマートフォンでどこまでできる？3Dゲームをぐりぐり動かすテクニック講座](https://youtu.be/6EtTI5xC524)
   - 名のあるゲーム会社のプログラマーがやっていることの例
+- [染谷翔 スキルがない人のための企画アイディア出しのコツ](https://drive.google.com/file/d/0B7bGK4Tdb-GqZDM0UWRaOTZqdE0/view)
 - UnityEditorについて
   - [公式マニュアル エディター拡張](https://docs.unity3d.com/jp/540/Manual/ExtendingTheEditor.html)
   - [安藤圭吾 エディター拡張入門](https://anchan828.github.io/editor-manual/web/index.html)
