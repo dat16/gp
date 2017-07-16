@@ -47,10 +47,10 @@
 
 ## 話題
 - [Unity3D Japan 【Unite 2017 Tokyo】Unityで楽しむノンフォトリアルな絵づくり講座：トゥーンシェーダー・マニアクス](https://www.youtube.com/watch?v=6aNB9LhSx7g)
-- [【第13回】東ゲ部もくもく会](https://togebu.doorkeeper.jp/events/62478)
-  - 2017-07-16（日）10:30 - 18:00
+- [C#言語機能　もくもく+ＬＴ会](https://togebu.doorkeeper.jp/events/62479)
+  - 2017-08-26（土）10:30 - 18:00
   - 1,000円 会場払い
-  - 申込締切 7月16日 17:00 
+  - 申込締切 8月26日 17:00 
 - [学生時代に知っておきたかったWeb技術の学び方の学び方 | リブセンス](https://www.slideshare.net/livesense/web-49772012)
 
 ## 夏休み明けについて
