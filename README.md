@@ -33,6 +33,11 @@
 - https://github.com/165b012/3Daction
 - https://github.com/furukawasyunngo/MatoateGame
 
+# 13回目
+## 話題
+- [paiza 現役エンジニア&採用担当者とピザを食べながら！プログラミング勉強会開催](http://paiza.hatenablog.com/entry/2017/08/25/_%E7%8F%BE%E5%BD%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%26%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E3%81%A8%E3%83%94%E3%82%B6%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%AA%E3%81%8C%E3%82%89%EF%BC%81)
+  - ランクB以上
+
 # 12回目
 ## 予定
 - [【Unite 2017 Tokyo】スマートフォンでどこまでできる？3Dゲームをぐりぐり動かすテクニック講座](https://youtu.be/6EtTI5xC524)
