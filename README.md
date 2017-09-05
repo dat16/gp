@@ -38,6 +38,7 @@
 - [paiza 現役エンジニア&採用担当者とピザを食べながら！プログラミング勉強会開催](http://paiza.hatenablog.com/entry/2017/08/25/_%E7%8F%BE%E5%BD%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%26%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E3%81%A8%E3%83%94%E3%82%B6%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%AA%E3%81%8C%E3%82%89%EF%BC%81)
   - ランクB以上
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
+- [Unity認定試験](http://japan.unity3d.com/certification/)
 
 ## 予定
 - この講義以外で作成したものでもよいので、Unity1週間ゲームジャムの登録に必要な材料を揃えて、提出する
