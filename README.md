@@ -40,6 +40,10 @@
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
 - [Unity認定試験](http://japan.unity3d.com/certification/)
 - [ソフトウェアテスト SHIFT](http://www.shiftinc.jp/topics/game-saiyo/?m=tw002)
+- [MagicaVoxel](https://ephtracy.github.io/)
+  - [だいし. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
+- [ドット絵ツール piskel](http://www.piskelapp.com/)
+- [フリーフォント一覧 fontbear](https://fontbear.net/)
 
 ## 予定
 - この講義以外で作成したものでもよいので、Unity1週間ゲームジャムの登録に必要な材料を揃えて、提出する
