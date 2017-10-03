@@ -28,6 +28,13 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 1回目
+- Unity Collaborateを試す
+  - https://www.youtube.com/watch?v=SU34aqY1SJI
+- 作品開発
+
+---
+
 # 春休みプロジェクト
 - https://github.com/khtaaa/battle-simulation
 - https://github.com/165b012/3Daction
