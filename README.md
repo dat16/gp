@@ -32,6 +32,12 @@
 ## 話題
 - [Unityインターハイ2017](https://inter-high.unity3d.jp/)
 
+## 予定
+- [Physics 練習問題](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)
+  - 上記にtest1, test2のシーンがある。それぞれ、問題が画面に表示されるので、指示通りの動作をするように設定して、LAN DISKの指定のフォルダーにUnityのプロジェクトをコピーして提出せよ
+  - 提出先のフォルダーに、`問題2.txt`というファイルがある。Notepadなどで開いて、問いの解答を入力して、上書き保存せよ。
+- DATフェスタ作業
+
 # 後期3回目
 - 高速なオブジェクトが壁などを抜けないようにする設定
 - DATフェスタ作業
