@@ -28,10 +28,21 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 1回目
+# 後期4回目
+## 話題
+- [Unityインターハイ2017](https://inter-high.unity3d.jp/)
+
+# 後期3回目
+- 高速なオブジェクトが壁などを抜けないようにする設定
+- DATフェスタ作業
+
+# 後期2回目
+- DATフェスタ作業
+
+# 後期1回目
 - Unity Collaborateを試す
   - https://www.youtube.com/watch?v=SU34aqY1SJI
-- 作品開発
+- DATフェスタ作業
 
 ---
 
