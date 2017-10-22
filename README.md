@@ -33,9 +33,10 @@
 - [Unityインターハイ2017](https://inter-high.unity3d.jp/)
 
 ## 予定
-- [Physics 練習問題](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)
-  - 上記にtest1, test2のシーンがある。それぞれ、問題が画面に表示されるので、指示通りの動作をするように設定して、LAN DISKの指定のフォルダーにUnityのプロジェクトをコピーして提出せよ
-  - 提出先のフォルダーに、`問題2.txt`というファイルがある。Notepadなどで開いて、問いの解答を入力して、上書き保存せよ。
+- 練習問題
+  - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
+  - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
+  - 提出先のフォルダー内に「問題2.txt」というテキストファイルがあるので、Notepadなどで開く。氏名を入力した後、問題に解答して、答え終わったら上書き保存してNotepadを閉じよ。
 - DATフェスタ作業
 
 # 後期3回目
