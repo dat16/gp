@@ -34,10 +34,6 @@
 - [完成させることの価値についてのツイート](https://twitter.com/yyuta342/status/922336138206969856)
 
 ## 予定
-- 練習問題
-  - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
-  - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
-  - 提出先のフォルダー内に「問題2.txt」というテキストファイルがあるので、Notepadなどで開く。氏名を入力した後、問題に解答して、答え終わったら上書き保存してNotepadを閉じよ。
 - DATフェスタ作業
 
 # 後期3回目
