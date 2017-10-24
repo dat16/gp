@@ -31,6 +31,7 @@
 # 後期4回目
 ## 話題
 - [Unityインターハイ2017](https://inter-high.unity3d.jp/)
+- [完成させることの価値についてのツイート](https://twitter.com/yyuta342/status/922336138206969856)
 
 ## 予定
 - 練習問題
