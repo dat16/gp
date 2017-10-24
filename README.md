@@ -30,7 +30,10 @@
 
 # 後期4回目
 ## 話題
-- [Unityインターハイ2017](https://inter-high.unity3d.jp/)
+- [Unity認定試験](http://japan.unity3d.com/certification/)
+  - [VRアカデミー](https://vracademy.jp/)
+  - [VRアカデミー スカラーシップコース 4月生](https://vracademy.jp/vrScholar.html)
+- [Unityインターハイ2017](https://inter-high.unity3d.jp/)\
 - [完成させることの価値についてのツイート](https://twitter.com/yyuta342/status/922336138206969856)
 
 ## 予定
