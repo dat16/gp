@@ -35,6 +35,7 @@
   - [VRアカデミー スカラーシップコース 4月生](https://vracademy.jp/vrScholar.html)
 - [Unityインターハイ2017](https://inter-high.unity3d.jp/)
 - [完成させることの価値についてのツイート](https://twitter.com/yyuta342/status/922336138206969856)
+- [赤崎 弘幸. チュートリアル / Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](https://area.autodesk.jp/column/tutorial/chara_maya/01/)
 
 ## 予定
 - DATフェスタ作業
