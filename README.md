@@ -34,16 +34,18 @@
 - 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
 - 12/31(日)まで [ふりーむゲームコンテスト](https://www.freem.ne.jp/contest/fgc/13)
 
+## 内容
+- DATフェスタ作業
+
 # 後期4回目
 ## 話題
 - [Unity認定試験](http://japan.unity3d.com/certification/)
   - [VRアカデミー](https://vracademy.jp/)
   - [VRアカデミー スカラーシップコース 4月生](https://vracademy.jp/vrScholar.html)
 - [Unityインターハイ2017](https://inter-high.unity3d.jp/)
-- [完成させることの価値についてのツイート](https://twitter.com/yyuta342/status/922336138206969856)
 - [赤崎 弘幸. チュートリアル / Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](https://area.autodesk.jp/column/tutorial/chara_maya/01/)
 
-## 予定
+## 内容
 - DATフェスタ作業
 
 # 後期3回目
