@@ -30,13 +30,15 @@
 
 # 後期5回目(11/15)
 ## 話題
+- [長谷川恭久. 野放しは危険！デザイナーに潜む4つのモンスター](http://www.yasuhisa.com/could/article/four-monster-designers/)
 - 11/13(月)～11/19(日)から[Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
   - [naichiさんのツイート](https://twitter.com/naichilab/status/925978184700399616)
 - 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
 - 12/31(日)まで [ふりーむゲームコンテスト](https://www.freem.ne.jp/contest/fgc/13)
 
 ## 内容
-- DATフェスタ作業
+- DATフェスタ作品紹介
+- Unity1週間ゲームジャム作業
 
 # 後期4回目
 ## 話題
