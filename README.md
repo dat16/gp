@@ -38,6 +38,7 @@
 - Unity1週間ゲームジャム作品について紹介と試遊
   - 自分が思ったいいねをつけて、アドバイスや感想があればコメントに書き込んでください
   - Unityアカウントがなければ、差支えがなければ作成して、コメントしてください
+- Asset Store紹介プログラムの紹介と設定 http://assetstore.info/eventandcontest/collaboration/unityroomand1weekgamejam/
 
 # 後期5回目(11/15)
 ## 話題
