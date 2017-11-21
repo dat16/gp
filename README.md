@@ -30,6 +30,8 @@
 
 # 後期6回目(11/22)
 ## 話題
+- ブログ例
+  - [ぐーるらいふ. 【Unity】第六回 unity1week「space」参加作品「スペースキューブ」の開発](http://ghoul-life.hatenablog.com/entry/2017/11/21/145230)
 - 11/13(月)～11/19(日)から[Unity1週間ゲームジャム お題：Space](https://unityroom.com/unity1weeks)
 - 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
 - 12/31(日)まで [ふりーむゲームコンテスト](https://www.freem.ne.jp/contest/fgc/13)
