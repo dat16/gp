@@ -35,6 +35,7 @@
 - 11/13(月)～11/19(日)から[Unity1週間ゲームジャム お題：Space](https://unityroom.com/unity1weeks)
 - 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
 - 12/31(日)まで [ふりーむゲームコンテスト](https://www.freem.ne.jp/contest/fgc/13)
+- UniRxとZenject https://github.com/dat17/gp1/wiki/UniRx%E3%81%A8Zenject%E3%83%A1%E3%83%A2
 
 ## 予定
 - GitHub LFSの利用
