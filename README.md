@@ -40,6 +40,11 @@
 ## 予定
 - GitHub LFSの利用
 - Unity1週間ゲームジャム作品について紹介と試遊
+  - 田中作品 https://unityroom.com/games/kuhaku-narabe/webgl
+  - 1年生作品
+    - https://unityroom.com/games/run-space/webgl
+    - https://unityroom.com/games/butukaruna-01/webgl
+    - https://unityroom.com/games/runa_space_1/webgl
   - 自分が思ったいいねをつけて、アドバイスや感想があればコメントに書き込んでください
   - Unityアカウントがなければ、差支えがなければ作成して、コメントしてください
 - Asset Store紹介プログラムの紹介と設定 http://assetstore.info/eventandcontest/collaboration/unityroomand1weekgamejam/
