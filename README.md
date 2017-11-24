@@ -28,6 +28,13 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期7回目(11/29)
+## 話題
+- [Y_YOSHINARI. Web出身のUnityエンジニアによる大規模ゲームの基盤設計](https://developers.cyberagent.co.jp/blog/archives/4262/)
+
+## 予定
+- Rigidbodyの練習問題
+
 # 後期6回目(11/22)
 ## 話題
 - ブログ例
@@ -38,7 +45,6 @@
 - UniRxとZenject https://github.com/dat17/gp1/wiki/UniRx%E3%81%A8Zenject%E3%83%A1%E3%83%A2
 
 ## 予定
-- GitHub LFSの利用
 - Unity1週間ゲームジャム作品について紹介と試遊
   - 田中作品 https://unityroom.com/games/kuhaku-narabe/webgl
   - 1年生作品
