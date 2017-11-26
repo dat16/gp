@@ -31,6 +31,8 @@
 # 後期7回目(11/29)
 ## 話題
 - [Y_YOSHINARI. Web出身のUnityエンジニアによる大規模ゲームの基盤設計](https://developers.cyberagent.co.jp/blog/archives/4262/)
+- [naichi. UnityRoomのWebGLからツイートする](https://github.com/naichilab/unityroom-tweet)
+- 遅いのは効果音かも
 
 ## 予定
 - Rigidbodyの練習問題
