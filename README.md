@@ -33,6 +33,7 @@
 - [Y_YOSHINARI. Web出身のUnityエンジニアによる大規模ゲームの基盤設計](https://developers.cyberagent.co.jp/blog/archives/4262/)
 - [naichi. UnityRoomのWebGLからツイートする](https://github.com/naichilab/unityroom-tweet)
 - 遅いのは効果音かも
+- [Unityインターハイ. 入選作品が遊べるように](https://inter-high.unity3d.jp/)
 
 ## 予定
 - Rigidbodyの練習問題
