@@ -28,6 +28,15 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期8回目(12/6)
+## 話題
+- [@higopage. Unityアプリを世界にどんどんリリースするためにやったこと](https://qiita.com/higopage/items/31fe383e371148207d71)
+
+## 予定
+- [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
+- [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
+
+
 # 後期7回目(11/29)
 ## 話題
 - [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
