@@ -35,6 +35,7 @@
 ## 予定
 - [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
 - [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
+- Doodleをやってみよう https://g.co/doodle/h7b5xj?ds=cl
 
 
 # 後期7回目(11/29)
