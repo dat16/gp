@@ -31,6 +31,8 @@
 # 後期8回目(12/6)
 ## 話題
 - [@higopage. Unityアプリを世界にどんどんリリースするためにやったこと](https://qiita.com/higopage/items/31fe383e371148207d71)
+- [paiza転職. スペシャリストのエンジニアにインタビュー](https://paiza.jp/feedback/safie2)
+  - 「お二人が考える「いいエンジニア」とは」の部分を確認のこと
 
 ## 予定
 - [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
