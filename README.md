@@ -28,17 +28,23 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期9回目(12/13)
+## 話題
+- [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
+- [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
+
+## 予定
+
 # 後期8回目(12/6)
 ## 話題
 - [@higopage. Unityアプリを世界にどんどんリリースするためにやったこと](https://qiita.com/higopage/items/31fe383e371148207d71)
 - [paiza転職. スペシャリストのエンジニアにインタビュー](https://paiza.jp/feedback/safie2)
   - 「お二人が考える「いいエンジニア」とは」の部分を確認のこと
 
-## 予定
+## 内容
 - [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
 - [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
 - Doodleをやってみよう https://g.co/doodle/h7b5xj?ds=cl
-
 
 # 後期7回目(11/29)
 ## 話題
