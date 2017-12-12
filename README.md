@@ -34,6 +34,9 @@
 - [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
 
 ## 予定
+- paiza C#でテスト
+  - Visual Studio 2017でC#コーディング
+  - [千代田まどか. 単体テストを書いてみよう！Live Unit Testing を試してみる手順書](https://blogs.msdn.microsoft.com/chomado/mobile-devops/vs2017-new-feature-live-unit-testing/)
 
 # 後期8回目(12/6)
 ## 話題
