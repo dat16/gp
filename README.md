@@ -35,12 +35,8 @@
 
 ## 予定
 - paiza C#でテスト
-  - Visual Studio 2017でC#コーディングをできるようにする(管理者権限が必要かも)
-    - [ツール]メニューから[拡張機能と更新プログラム]を選択
-    - 更新する
-    - 必要なコンポーネントにチェックを入れる
-    - あるいは、コントロールパネルのプログラムと機能から、VS2017Communityを選択して、変更
-  - [千代田まどか. 単体テストを書いてみよう！Live Unit Testing を試してみる手順書](https://blogs.msdn.microsoft.com/chomado/mobile-devops/vs2017-new-feature-live-unit-testing/)
+  - Visual Studio <b>2013</b>でC#の単体テストをやってみる
+  - https://code.msdn.microsoft.com/windowsapps/uniteTestVS2013-fa41a0af
   - [MsTestによるユニットテストの解説](https://qiita.com/mima_ita/items/55394bcc851eb8b6dc24)
   - [Microsoft Developer Network. 単体テストの基本](https://msdn.microsoft.com/ja-jp/library/hh694602.aspx)
   - [ごずろぐ. コンソールアプリの中で標準出力している文言をMSTestでテストしたい](http://gozuk16.hatenablog.com/entry/2016/05/19/194720)
