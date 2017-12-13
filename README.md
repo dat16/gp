@@ -31,7 +31,7 @@
 # 後期9回目(12/13)
 ## 話題
 - [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
-  - これまでの投稿作品 http://assetstore.info/eventandcontest/screenshotposting/
+  - これまでの投稿作品 http://assetstore.info/eventandcontest/screenshotposting/
 - [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
 
 ## 予定
