@@ -28,13 +28,22 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期9回目(12/20)
+## 話題
+- [Unity AssetStoreまとめ. 【クリスマスイベント】あなたの欲しいアセットが無料でゲットできるかも!? アセットバウチャー総額『5万円＋α』プレゼント](http://assetsale.hateblo.jp/entry/Christmas171219)
+- [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
+- [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
+
+## 予定
+- 上記、応募に関する作業など
+
 # 後期9回目(12/13)
 ## 話題
 - [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
   - これまでの投稿作品 http://assetstore.info/eventandcontest/screenshotposting/
 - [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
 
-## 予定
+## 内容
 - paiza C#でテスト
   - Visual Studio <b>2013</b>でC#の単体テストをやってみる
   - https://code.msdn.microsoft.com/windowsapps/uniteTestVS2013-fa41a0af
