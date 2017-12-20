@@ -34,8 +34,43 @@
 - [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
 - [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
 
+## 2年最終課題
+
+### 課題：作品を完成させて、インターネットで公開する
+- Unity1週間ゲームジャムですでに作品を公開済みの場合は、条件を満たしているのでやらなくてもよい（やった場合はその分、加点）
+
+### 締め切り：最後から2回目の講義
+
+### 提出方法：公開したURLを報告する
+
+### 公開先の例
+以下のいずれでもよい。
+
+- GitHub Pages
+- [Unityroom](https://unityroom.com/)
+- [ふりーむ](https://www.freem.ne.jp/)
+- 自分で運営しているWebサイト
+- その他、ゲーム投稿サイトなど
+
+### 進め方
+- 著作権などに配慮して、公開できる作品を完成させる
+- 利用する言語やツールは自由
+- WebGL以外の場合は、実行ファイルのダウンロードリンクなどを公開ページに用意する
+
+### GitHub Pagesで公開する場合の参考URL
+- [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)を参考に、HTML5+Bootstrapでページを作成
+- [12/1の講義動画](https://www.youtube.com/watch?v=L543qNQg_fE)を参考に、作成したページをGitHub Pagesのアカウントページとして公開する
+  - 公開手順の記事 [matsuo. GitHub Pages を使った静的サイトの公開方法が、とても簡単になっていた](https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html)
+- 以下について記載する
+  - 作品名
+  - 作品のスクリーンショット
+  - 操作方法とルール
+  - 制作期間
+  - ゲームが遊べるページへのリンク、あるいは、実行ファイルのダウンロードリンク
+- 記載項目の参考： https://unityroom.com/games/unite-star-dust
+
 ## 予定
-- 上記、応募に関する作業など
+- 応募に関する作業など
 
 # 後期9回目(12/13)
 ## 話題
