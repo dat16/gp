@@ -28,11 +28,15 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 後期10回目(12/20)
+# 後期11回目(1/10)
 ## 話題
-- [Unity AssetStoreまとめ. 【クリスマスイベント】あなたの欲しいアセットが無料でゲットできるかも!? アセットバウチャー総額『5万円＋α』プレゼント](http://assetsale.hateblo.jp/entry/Christmas171219)
-- [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
-- [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
+- [Unity AssetStoreまとめ. 【新春イベント】あなたの欲しいアセットが無料でゲットできるかも!? アセットバウチャー総額『5万円＋α』プレゼント](http://assetsale.hateblo.jp/entry/2018/01/01/090554)
+- [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット結果](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
+- [IGDA日本新年会2018(1/21)](http://www.igda.jp/?p=7754)
+  - 名刺と作品を持っていくと何かあるかも(ないかも)
+
+## 予定
+- 最終課題作業
 
 ## 2年最終課題
 
@@ -69,7 +73,14 @@
   - ゲームが遊べるページへのリンク、あるいは、実行ファイルのダウンロードリンク
 - 記載項目の参考： https://unityroom.com/games/unite-star-dust
 
-## 予定
+
+# 後期10回目(12/20)
+## 話題
+- [Unity AssetStoreまとめ. 【クリスマスイベント】あなたの欲しいアセットが無料でゲットできるかも!? アセットバウチャー総額『5万円＋α』プレゼント](http://assetsale.hateblo.jp/entry/Christmas171219)
+- [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
+- [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
+
+## 内容
 - 応募に関する作業など
 
 # 後期9回目(12/13)
