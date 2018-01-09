@@ -28,7 +28,7 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 後期11回目(1/10)
+# 後期12回目(1/10)
 ## 話題
 - [Unity AssetStoreまとめ. 【新春イベント】あなたの欲しいアセットが無料でゲットできるかも!? アセットバウチャー総額『5万円＋α』プレゼント](http://assetsale.hateblo.jp/entry/2018/01/01/090554)
 - [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット結果](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
@@ -44,6 +44,7 @@
 - Unity1週間ゲームジャムですでに作品を公開済みの場合は、条件を満たしているのでやらなくてもよい（やった場合はその分、加点）
 
 ### 締め切り：最後から2回目の講義
+- 1/31(水)
 
 ### 提出方法：公開したURLを報告する
 
