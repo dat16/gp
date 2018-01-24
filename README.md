@@ -64,6 +64,9 @@
   - ゲームが遊べるページへのリンク、あるいは、実行ファイルのダウンロードリンク
 - 記載項目の参考： https://unityroom.com/games/unite-star-dust
 
+## 公開済み
+- バラセン https://balasen.github.io/Laser_fire/
+
 # 後期14回目(1/24)
 ## 話題
 - [2/10(土)15:00【参加費無料】実例からみるHoloLensアプリ開発とWindows Mixed Reality／主催：VRプロフェッショナルアカデミー@品川](https://peatix.com/event/343639)
