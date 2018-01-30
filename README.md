@@ -64,6 +64,14 @@
   - ゲームが遊べるページへのリンク、あるいは、実行ファイルのダウンロードリンク
 - 記載項目の参考： https://unityroom.com/games/unite-star-dust
 
+# 後期15回目(1/31)
+## 話題
+- [Esoteric Software. Spine](http://ja.esotericsoftware.com/)
+- [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https:/cocoon.io)
+
+## 予定
+- 完成させたゲームを公開して、URLを報告する
+
 ## 公開済み
 - バラセン https://balasen.github.io/Laser_fire/
 
