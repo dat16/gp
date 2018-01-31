@@ -80,6 +80,9 @@
 - [Esoteric Software. Spine](http://ja.esotericsoftware.com/)
 - [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https:/cocoon.io)
 
+## WebGLビルドとGitHubへの公開
+- https://www.youtube.com/watch?v=MR410Nq3I5c
+
 ## 予定
 - 完成させたゲームを公開して、URLを報告する
 
