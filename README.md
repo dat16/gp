@@ -28,6 +28,46 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期16回目(2/7)
+- 2時間なんでもジャム
+  - 2時間で何かを完成させて公開する
+- 簡単に発表する
+
+## 完成とは？
+- 第三者が、公開されたものを見て、遊び方や内容を理解して利用できる状態のこと
+
+### 要件
+- githubに公開する
+- README.mdに以下を掲載する
+  - 使い方や内容を理解してもらえる情報を載せる
+  - 雛形としたものがあれば、著作者名、タイトル、URL
+  - ゲームやツールの場合は、遊ぶためのリンクや、ダウンロードURL
+- 法律違反がないこと
+
+### 作品例
+- ミニゲーム
+- ツール
+- デモ
+- 技術ブログ
+
+# 後期15回目(1/31)
+## 話題
+- [Esoteric Software. Spine](http://ja.esotericsoftware.com/)
+- [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https:/cocoon.io)
+
+## WebGLビルドとGitHubへの公開
+- https://www.youtube.com/watch?v=MR410Nq3I5c
+
+## 内容
+- 完成させたゲームを公開して、URLを報告する
+
+# 後期14回目(1/24)
+## 話題
+- [2/10(土)15:00【参加費無料】実例からみるHoloLensアプリ開発とWindows Mixed Reality／主催：VRプロフェッショナルアカデミー@品川](https://peatix.com/event/343639)
+
+## 内容
+- 最終課題作業
+
 # 2年最終課題
 
 ## 課題：作品を完成させて、インターネットで公開する
@@ -74,50 +114,6 @@
   - https://unityroom.com/games/iwashitry/
 - バラセン
   - https://balasen.github.io/Laser_fire/
-
-# 後期15回目(1/31)
-## 話題
-- [Esoteric Software. Spine](http://ja.esotericsoftware.com/)
-- [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https:/cocoon.io)
-
-## WebGLビルドとGitHubへの公開
-- https://www.youtube.com/watch?v=MR410Nq3I5c
-
-## 予定
-- 完成させたゲームを公開して、URLを報告する
-
-## 最終回
-- 2時間なんでもジャム
-  - 2時間で何かを作って公開する
-
-### 要件
-- githubにリポジトリーを作成
-- readme.mdに以下を記載
-  - 作ったもののタイトル
-  - 何をするものか
-  - 使い方、操作説明
-  - 参考URL
-  - ライセンス表示
-  - コピーライト
-  - 作品がある場合は、作品ページへのリンク、あるいは、ダウンロードURL
-
-### 作品の条件
-- 法律違反がないこと
-- 公開できること
-- 完成していること
-
-### 作品例
-- ミニゲーム
-- ツール
-- デモ
-- 技術ブログ
-
-# 後期14回目(1/24)
-## 話題
-- [2/10(土)15:00【参加費無料】実例からみるHoloLensアプリ開発とWindows Mixed Reality／主催：VRプロフェッショナルアカデミー@品川](https://peatix.com/event/343639)
-
-## 内容
-- 最終課題作業
 
 # 後期13回目(1/17)
 - [Global Game Jam 2018](http://ggj.igda.jp/)
