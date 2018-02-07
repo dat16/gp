@@ -70,6 +70,9 @@
 
 ※2時間でとにかくできるところまで進めてみましょう！
 
+## 話題
+- http://nknkybigames.hatenablog.com/
+
 # 後期15回目(1/31)
 ## 話題
 - [Esoteric Software. Spine](http://ja.esotericsoftware.com/)
