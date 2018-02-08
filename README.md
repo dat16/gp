@@ -160,7 +160,7 @@
 ## 内容
 - 最終課題作業
 
-# 後期10回目(12/20)
+# 後期11回目(12/20)
 ## 話題
 - [Unity AssetStoreまとめ. 【クリスマスイベント】あなたの欲しいアセットが無料でゲットできるかも!? アセットバウチャー総額『5万円＋α』プレゼント](http://assetsale.hateblo.jp/entry/Christmas171219)
 - [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
@@ -169,7 +169,7 @@
 ## 内容
 - 応募に関する作業など
 
-# 後期9回目(12/13)
+# 後期10回目(12/13)
 ## 話題
 - [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
   - これまでの投稿作品 http://assetstore.info/eventandcontest/screenshotposting/
@@ -183,7 +183,7 @@
   - [Microsoft Developer Network. 単体テストの基本](https://msdn.microsoft.com/ja-jp/library/hh694602.aspx)
   - [ごずろぐ. コンソールアプリの中で標準出力している文言をMSTestでテストしたい](http://gozuk16.hatenablog.com/entry/2016/05/19/194720)
 
-# 後期8回目(12/6)
+# 後期9回目(12/6)
 ## 話題
 - [@higopage. Unityアプリを世界にどんどんリリースするためにやったこと](https://qiita.com/higopage/items/31fe383e371148207d71)
 - [paiza転職. スペシャリストのエンジニアにインタビュー](https://paiza.jp/feedback/safie2)
@@ -194,7 +194,7 @@
 - [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
 - Doodleをやってみよう https://g.co/doodle/h7b5xj?ds=cl
 
-# 後期7回目(11/29)
+# 後期8回目(11/29)
 ## 話題
 - [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
 - [Y_YOSHINARI. Web出身のUnityエンジニアによる大規模ゲームの基盤設計](https://developers.cyberagent.co.jp/blog/archives/4262/)
@@ -209,7 +209,7 @@
 ## 予定
 - Rigidbodyの練習問題
 
-# 後期6回目(11/22)
+# 後期7回目(11/22)
 ## 話題
 - ブログ例
   - [ぐーるらいふ. 【Unity】第六回 unity1week「space」参加作品「スペースキューブ」の開発](http://ghoul-life.hatenablog.com/entry/2017/11/21/145230)
@@ -229,7 +229,7 @@
   - Unityアカウントがなければ、差支えがなければ作成して、コメントしてください
 - Asset Store紹介プログラムの紹介と設定 http://assetstore.info/eventandcontest/collaboration/unityroomand1weekgamejam/
 
-# 後期5回目(11/15)
+# 後期6回目(11/15)
 ## 話題
 - [長谷川恭久. 野放しは危険！デザイナーに潜む4つのモンスター](http://www.yasuhisa.com/could/article/four-monster-designers/)
 - [paiza開発日誌. 機械学習事業を手掛ける企業で聞いた！どんな学生を求めていますか？【採用担当／新入社員インタビュー】](http://paiza.hatenablog.com/entry/2017/11/14/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E4%BA%8B%E6%A5%AD%E3%82%92%E6%89%8B%E6%8E%9B%E3%81%91%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%A7%E8%81%9E%E3%81%84%E3%81%9F%EF%BC%81%E3%81%A9%E3%82%93%E3%81%AA%E5%AD%A6)
@@ -241,6 +241,9 @@
 ## 内容
 - DATフェスタ作品紹介
 - Unity1週間ゲームジャム作業
+
+# 後期5回目(11/1)
+- DATフェスタ作業
 
 # 後期4回目
 ## 話題
